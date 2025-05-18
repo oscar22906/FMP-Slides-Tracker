@@ -5,7 +5,7 @@ Hello wonderful friends i have created another very simple but also very useful 
 It is very simple and very effective.
 
 Unfortunately, there is no fun mode.
-This feature was exclusive to the countdown programme and does not return in this one D:
+This feature was exclusive to the countdown programme and does not return in this one. I dont care. Cry about it.
 
 ## Instructions
 All you must do is download the .exe file. Either do this by downloading the source as a zip or download the exe from the release area. Its really easy just like click around and you will find it.
