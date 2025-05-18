@@ -20,6 +20,7 @@ Alternatively you can watch the video I have made showcasing this programme:
 There are plenty of features in this project. Here is a list to prove to you that there are many features.
 
 - Organised sections
+- **Secret button!!!**
 - Toggle 'Always on Top'
 - No annoying 'fun mode'
 - Tells you how many slides per day
