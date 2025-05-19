@@ -30,3 +30,8 @@ There are plenty of features in this project. Here is a list to prove to you tha
 Nothing,
 
 there will never be an update.
+
+
+
+THIS CODE IS FOR ME ONLY
+pyinstaller --onefile --windowed --noconsole --add-data "pirate.jpg;." --add-data "sound.wav;." slides.py
